@@ -1,6 +1,10 @@
 # easyTask
 一款简单易用的定时任务框架
 ## 快速入门
+安装dist\easytask-1.0.0-py3-none-any.whl
+```cmd
+pip install easytask-1.0.0-py3-none-any.whl
+```
 导入easytask中的Runnable和Task类
 ```python
 from easytask import Runnable, Task
